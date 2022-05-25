@@ -1,0 +1,1 @@
+This program can show the formula and calculate user inputs.
